@@ -63,4 +63,10 @@ body h1{
     color: white;
 }
 
+/*CLASSLIST*/
+
+.colorActive{
+    border-color: yellow;
+    color: yellow;
+}
 
